@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Min Khant Kyaw</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Currently in Japan 🇯🇵</h3>
 
-<!--
-**Mk-Khant/Mk-Khant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Bachelor of Computer Science (Myanmar)
+- 🇯🇵 Currently studying Japanese in Japan
+- 📚 Preparing for JLPT N2
+- 💻 Currently learning **Java, Spring Boot, Spring Security, JPA, REST API**
+- 🎯 Goal: Working as a Software Developer in Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- REST API
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Thymeleaf
+
+**Database**
+- MySQL
+- PostgreSQL
+- MongoDB
+
+---
+
+### 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Mk-Khant&show_icons=true&theme=default)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mk-Khant&layout=compact)
+
+---
+
+### 📫 Contact Me
+- Email: **Khant22km@gmail.com**
+- Location: **Yokohama, Japan**
